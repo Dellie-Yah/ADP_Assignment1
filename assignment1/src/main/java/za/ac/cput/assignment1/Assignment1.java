@@ -9,6 +9,6 @@ package za.ac.cput.assignment1;
  *
  * @author Chante Lee Davids
  */
-public class assignment1 {
+public class Assignment1 {
     
 }
